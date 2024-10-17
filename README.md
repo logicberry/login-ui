@@ -9,7 +9,8 @@ Flutter | Dart
 
 ## Demo
 
-https://github.com/logicberry/login-ui/blob/main/login_ui.gif
+![login-ui](https://github.com/user-attachments/assets/97749203-12c3-48f2-ac12-299dc4be492d)
+
 
 ## Run Locally
 
